@@ -59,7 +59,8 @@ car-price-prediction/
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/car-price-prediction.git
+git clone
+https://github.com/your-username/car-price-prediction.git
 
 2. Navigate to Project Directory
 
