@@ -60,7 +60,7 @@ car-price-prediction/
 1. Clone the Repository
 
 git clone
-https://github.com/your-username/car-price-prediction.git
+https://github.com/kumarprajapatiprashant9-arch/Car-Price-Pridiction
 
 2. Navigate to Project Directory
 
